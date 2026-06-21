@@ -113,8 +113,6 @@ No additional setup is required.
 
 **Ashish Kumar Yadav**
 
-Learning Full Stack Web Development one project at a time.
-
 ---
 
 ## ⭐ If you like this project
